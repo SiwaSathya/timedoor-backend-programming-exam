@@ -89,7 +89,7 @@ For the frontend, you can choose any available port other than 8000. First, inst
 **php artisan serve --port=your-port**
 
 
-Your backend will now be accessible at **http://127.0.0.1:8000**.
+Your frontend will now be accessible at **http://127.0.0.1:your-port**.
 
 ## Conclusion
 
